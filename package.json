@@ -1,0 +1,27 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "A simple project aimed to help practice Cypress testing for Tech Evolution",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pontusgavelin/cypress-training.git"
+  },
+  "keywords": [
+    "Cypress",
+    "e2e"
+  ],
+  "author": "Gavelin, Pontus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pontusgavelin/cypress-training/issues"
+  },
+  "homepage": "https://github.com/pontusgavelin/cypress-training#readme",
+  "devDependencies": {
+    "cypress": "^13.7.3"
+  }
+}
