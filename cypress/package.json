@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pontusgavelin/cypress-training.git"
+    "url": "git+https://github.com/pontusgavelin/e2e-training.git"
   },
   "keywords": [
     "Cypress",
@@ -17,10 +17,6 @@
   ],
   "author": "Gavelin, Pontus",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pontusgavelin/cypress-training/issues"
-  },
-  "homepage": "https://github.com/pontusgavelin/cypress-training#readme",
   "devDependencies": {
     "cypress": "^13.7.3"
   }
