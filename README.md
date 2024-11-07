@@ -1,18 +1,40 @@
-# End-to-end träningsprogram för Tech Evolution
+# 🚀 End-to-end Träningsprogram för Tech Evolution
 
-Detta repo innehåller ett Playwright- och ett Cypress-projekt som är inställda att utgå från https://www.automationexercise.com/ som är en hemsida byggd för att "testa att testa".
-Uppdraget ni nu har är att gå till ["Test Cases"](https://www.automationexercise.com/test_cases) och välja något som ni tycker ser bra ut, för att sedan implementera stegen med Cypress eller Playwright.
+Välkommen! Detta repo innehåller två testprojekt, ett för **Playwright** och ett för **Cypress**. Båda är inställda för att använda [Automation Exercise](https://www.automationexercise.com/) – en hemsida skapad för att låta dig testa dina testkunskaper!
 
-Dokumentation för Cypress finns här: https://docs.cypress.io/api/table-of-contents, och dokumentation för Playwright finns här: https://playwright.dev/docs/intro och ett tips om ni kör fast är att fråga Copilot / ChatGPT för hjälp med syntax då detta kanske är nytt för många av er.
+## 🎯 Uppdraget
 
-Det finns ett förifyllt testfall under `examples/{cypress/playwright}/user-flows.{cy/spec}.js` som testar det första testfallet på hemsidan; att registrera och ta bort en ny användare. Använd detta som inspiration på hur ni kan gå tillväga om ni kör fast!
+1. Besök ["Test Cases"](https://www.automationexercise.com/test_cases) på Automation Exercise.
+2. Välj ett testfall som verkar intressant.
+3. Implementera de valda stegen med antingen **Cypress** eller **Playwright**.
+
+Du har friheten att välja det testverktyg som passar dig bäst!
+
+## 🛠 Verktyg och Dokumentation
+
+- **Cypress**: [Dokumentation här](https://docs.cypress.io/api/table-of-contents)
+- **Playwright**: [Dokumentation här](https://playwright.dev/docs/intro)
+
+✨ **Tips**: Om du stöter på problem, fråga gärna Copilot eller ChatGPT om syntaxhjälp. Det här kan vara nytt för många, så ingen fråga är för liten!
+
+## 💡 Exempelfall
+
+Det finns ett exempelfall för dig att utgå ifrån under:
+
+- `examples/{cypress/playwright}/user-flows.{cy/spec}.js`
+
+Detta testfall demonstrerar hur man registrerar och tar bort en ny användare på sajten. Använd det gärna som inspiration om du kör fast!
 
 ---
 
-## Steg-för-steg
+## 📝 Steg-för-steg-guide
 
-- Klona repot
-- Navigera till antingen Cypress eller Playwright
-- Läs igenom dess README.md för detaljerade steg
+1. **📥 Klona repot**
+2. **📂 Navigera** till antingen Cypress- eller Playwright-mappen
+3. **📖 Läs** igenom respektive README.md för detaljerade instruktioner
 
-**VID PROBLEM**: Bara att rycka tag i någon av oss som är instruktörer så löser vi det tillsammans!
+---
+
+## 🚨 Behöver du hjälp?
+
+Vid problem eller frågor, tveka inte att kontakta en av instruktörerna – vi löser det tillsammans! 😊
